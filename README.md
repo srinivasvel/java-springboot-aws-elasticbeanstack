@@ -49,3 +49,5 @@
   <br/>```mvn -Dtest=HelloWorldControllerTest test```
   <br/>or
   <br/>```mvn -Dtest=HelloWorldApplicationTests test```
+
+<br> this application can be deployed to aws elastic bean stack </br>
